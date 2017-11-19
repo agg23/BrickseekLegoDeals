@@ -1,0 +1,3 @@
+[submodule "brickseek"]
+	path = brickseek
+	url = git://github.com/agg23/Brickseek
