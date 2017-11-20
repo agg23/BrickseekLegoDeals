@@ -4,7 +4,7 @@ Searches for the specified Walmart (or Target, or any other retail store support
 
 ## Usage
 
-Update `bricksetApiKey` and `useragent` in `deals.py` to the pertinent values.
+Update `bricksetApiKey` and `useragent` in `deals.py` to the pertinent values. Set the addresses of the stores you wish to analyze (found using Brickseek) in the `walmartAddresses` variable, along with your zip code in `zipcode`.
 
 To build the deals list, run:
 
